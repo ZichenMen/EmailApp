@@ -1,1 +1,1 @@
-# EmailApp
+# emial-app
