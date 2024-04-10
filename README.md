@@ -1,3 +1,5 @@
-# email-app
+# email-emulator
+
+Java practice project, sudo-email
 
 
